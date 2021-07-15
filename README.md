@@ -4,7 +4,7 @@
     name: 'Matt Roden',
     pronouns: ['He', 'Him'],
     location: 'Denver, CO',
-    tools: ['JavaScript', 'HTML', 'CSS', 'Git', 'GitHub', 'Webpack', 'Mocha', 'Chai', 'Pro Tools', 'Apple LogicX', 'Photoshop'],
+    tools: ['JavaScript', 'HTML', 'CSS', 'Git', 'GitHub', 'Webpack', 'Mocha', 'Chai', 'Apple LogicX', 'Photoshop'],
     skills: ['communication', 'collaboration', 'creative thinking', 'time management', 'organization', 'patience'],
     interestes: ['technology and engineering', 'music production and recording', 'nature'],
     };
