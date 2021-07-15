@@ -1,4 +1,4 @@
-  `javascript
+  ```javascript
   
   let matt = {
     name: 'Matt Roden',
@@ -7,8 +7,8 @@
     code: ['JavaScript', 'HTML', 'CSS'],
     skills: ['communication', 'collaboration', 'creative thinking'],
     interestes: ['technology and engineering', 'music production and recording', 'nature'],
-    } 
-    `
+    };
+   ```
 
 ### Matt Roden: Aspiring Developer 💻, Student 📚, Noise Maker and Recorder 🎧, Dog-Dad 🐶
 
