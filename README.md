@@ -4,10 +4,11 @@
     name: 'Matt Roden',
     pronouns: ['He', 'Him'],
     location: 'Denver, CO',
-    code: ['JavaScript', 'HTML', 'CSS'],
+    tools: ['JavaScript', 'HTML', 'CSS', 'Git', 'GitHub', 'Webpack', 'Mocha', 'Chai'],
     skills: ['communication', 'collaboration', 'creative thinking'],
     interestes: ['technology and engineering', 'music production and recording', 'nature'],
     };
+    
    ```
 
 ### Matt Roden: Aspiring Developer 💻, Student 📚, Noise Maker and Recorder 🎧, Dog-Dad 🐶
