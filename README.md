@@ -2,7 +2,7 @@
   
   let matt = {
     name: 'Matt Roden',
-    pronouns: ['He', 'Him']
+    pronouns: ['He', 'Him'],
     location: 'Denver, CO',
     code: ['JavaScript', 'HTML', 'CSS'],
     skills: ['communication', 'collaboration', 'creative thinking'],
