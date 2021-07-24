@@ -13,7 +13,7 @@
 
 ### Matt Roden: Aspiring Developer 💻, Student 📚, Noise Maker and Recorder 🎧, Dog-Dad 🐶
 
-As a Front End Software Development Student at the Turing School of Software & Design, I am currently sharpening my skills in JavaScript, HTML, and CSS through both indpendent and collaborative projects. I'm looking forward to starting React soon!
+As a Front End Development Student at the Turing School of Software & Design, I am currently sharpening my skills in JavaScript, HTML, and CSS through both indpendent and collaborative projects. I'm looking forward to starting React soon!
 
 I aim to bring a sense of empathy and inclusion to every project I work on.
 
