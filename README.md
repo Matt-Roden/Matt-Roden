@@ -17,6 +17,8 @@ An inspired, problem solver with a tremendous thirst for learning and delivering
 
 I aim to bring a sense of empathy and inclusion to every project I work on.
 
+In the future, I aim to become a full-stack engineer with the ability to build applications from the ground up and work in all sorts of different code bases! 
+
 ### Reach Out:
 
 📧: mattroden92@gmail.com
