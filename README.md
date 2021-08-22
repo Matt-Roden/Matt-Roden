@@ -9,7 +9,6 @@
     interestes: ['technology and engineering', 'music production and recording', 'nature', 'culinary arts', '🛹'],
     spiritAnimal: '🐘'
     };
-    
    ```
 
 ### Matt Roden: Front End Software Developer 💻, Student 📚, Noise Maker and Recorder 🎧, Dog-Dad 🐶
