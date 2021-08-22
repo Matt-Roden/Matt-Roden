@@ -17,7 +17,7 @@ An inspired, problem solver with a tremendous thirst for learning and delivering
 
 I aim to bring a sense of empathy and inclusion to every project I work on.
 
-In the future, I aim to become a full-stack engineer with the ability to build applications from the ground up and to work in all sorts of different code bases! 💪
+In the future, I strive to become a full-stack engineer with the ability to build applications from the ground up and to work in all sorts of different code bases! 💪
 
 ### Reach Out:
 
