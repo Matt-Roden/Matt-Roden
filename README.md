@@ -10,7 +10,7 @@
     spiritAnimal: '🐘'
     };
    ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-Roden&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-Roden&theme=calm)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 
 ### Matt Roden: Front End Software Developer 💻, Student 📚, Noise Maker and Recorder 🎧, Dog-Dad 🐶
