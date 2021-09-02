@@ -12,9 +12,6 @@
    ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-Roden&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-Roden$theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ### Matt Roden: Front End Software Developer 💻, Student 📚, Noise Maker and Recorder 🎧, Dog-Dad 🐶
 
