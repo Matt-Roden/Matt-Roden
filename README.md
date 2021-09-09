@@ -1,6 +1,6 @@
   ```javascript
   
-  let matt = {
+  const matt = {
     name: 'Matt Roden',
     pronouns: ['He', 'Him'],
     location: 'Denver, CO',
