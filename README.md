@@ -11,8 +11,8 @@
     spiritAnimal: '🐘'
     };
    ```
-   <div align="center">
-  [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-Roden&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Matt-Roden&theme=calm"/>
   </div>
 ### Matt Roden: Software Developer 💻, Student 📚, Noise Maker and Recorder 🎧, Dog-Dad 🐶
 
