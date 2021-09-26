@@ -17,7 +17,7 @@
 
 ### Matt Roden: Software Developer 💻, Student 📚, Noise Maker and Recorder 🎧, Dog-Dad 🐶
   
-An inspired, problem solver with a tremendous thirst for learning and delivering quality solutions. I am a Software Developer specializing in JavaScript, React, HTML5, Sass/SCSS, OOP, and Test Driven Development. My prior experiences as a Field Service Technician and an Audio Engineer have allowed me to lead and see through long winded and large scale projects from start to finish, as well as successfully servicing and managing dozens of smaller projects. 
+An inspired, problem solver with a tremendous thirst for learning and delivering quality solutions. I am a Software Developer specializing in JavaScript, React, HTML5, Modern CSS, OOP, and Test Driven Development. My prior experiences as a Field Service Technician and an Audio Engineer have allowed me to lead and see through long winded and large scale projects from start to finish, as well as successfully servicing and managing dozens of smaller projects. 
 
 I aim to bring a sense of empathy and inclusion to every project I work on.
 
