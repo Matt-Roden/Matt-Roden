@@ -26,6 +26,8 @@ In the future, I strive to become a full-stack engineer with the ability to buil
 ### Reach Out:
 
 📧: mattroden92@gmail.com
+💻: [LinkedIn Page](https://www.linkedin.com/in/matt-roden-35bb3413b/)
+💼: [Portfolio](https://terminal.turing.edu/profiles/973)
 
 
 <!--
