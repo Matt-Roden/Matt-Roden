@@ -15,7 +15,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Matt-Roden&theme=calm"/>
   </div>
 
-### Matt Roden: Software Developer 💻, Student 📚, Noise Maker and Recorder 🎧, Dog-Dad 🐶
+### Matt Roden: Software Developer 💻, Noise Maker and Recorder 🎧, Dog-Dad 🐶
   
 I love to build with React and create responsive and user friendly interfaces. I'm passionate about software development and am motivated by the desire to learn new and interesting technologies and techniques. 
 
