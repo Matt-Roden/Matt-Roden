@@ -19,6 +19,8 @@
   
 I love to build with React and create responsive and user friendly interfaces. I'm passionate about software development and am motivated by the desire to learn new and interesting technologies and techniques. 
 
+I'm currently diving into the world of UX design and engineering, as well as beginning to take on learning some backend tech. 
+
 ### Reach Out:
 
 📧: mattroden92@gmail.com
