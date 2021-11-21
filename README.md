@@ -5,7 +5,7 @@
     pronouns: ['He', 'Him'],
     location: 'Denver, CO',
     languages: [JavaScript, TypeScript, CSS3 - SASS/SCSS, HTML5],
-    tools: [React, Cypress, GSAP Animaitons, Git, GitHub, Webpack, Mocha/Chai, Apple LogicX, Photoshop],
+    tools: [React, Cypress, StorybookJS, GSAP Animaitons, Git, GitHub, Webpack, Mocha/Chai, Apple LogicX, Photoshop],
     skills: ['communication', 'adaptability', 'collaboration', 'creative thinking', 'empathy', 'organization', 'patience'],
     interestes: ['technology and engineering', 'music production and recording', 'nature', 'culinary arts', '🛹'],
     spiritAnimal: '🐘'
