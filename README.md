@@ -15,11 +15,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Matt-Roden&theme=calm"/>
   </div>
 
-### Matt Roden: Software Developer 💻, Noise Maker and Recorder 🎧, Dog-Dad 🐶
+### Matt Roden: Software Engineer 💻, Noise Maker and Recorder 🎧, Dog-Dad 🐶
   
-I love to build with React and create responsive and user friendly interfaces. I'm passionate about software development and am motivated by the desire to learn new and interesting technologies and techniques. 
-
-I'm currently diving into the world of UX design and engineering, as well as beginning to take on learning some backend tech. 
+Software Engineer at Tackle.io, maker of noises, sampler or records and sounds, cuddler of dogs. On a constant quest to learn!
 
 ### Reach Out:
 
