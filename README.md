@@ -17,7 +17,7 @@
 
 ### Matt Roden: Software Engineer 💻, Noise Maker and Recorder 🎧, Dog-Dad 🐶
   
-Software Engineer at Tackle.io, maker of noises, sampler or records and sounds, cuddler of dogs. On a constant quest to learn!
+Software Engineer at Tackle.io, maker of noises, sampler of records and sounds, cuddler of dogs. On a constant quest to learn!
 
 ### Reach Out:
 
