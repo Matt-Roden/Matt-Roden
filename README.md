@@ -11,9 +11,6 @@
     spiritAnimal: '🐘'
     };
    ```
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Matt-Roden&theme=calm"/>
-  </div>
 
 ### Matt Roden: Software Engineer 💻, Noise Maker and Recorder 🎧, Dog-Dad 🐶
   
